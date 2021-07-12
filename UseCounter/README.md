@@ -1,10 +1,10 @@
 # useCounter hook
 
 
-ejemplo de uso
+Usage example
 
 ```
     const {counter,increment,decrement,reset} = useConter(10);
 ```
 
-useCounter() // recibe un valor por defecto
+useCounter() // receives a default value
